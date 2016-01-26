@@ -3,11 +3,15 @@
    =========================== */
    
 Compilation of all themes (10 files):
+
 Gulp: 16sec
+
 Grunt 33sec
 
 Custom theme compilation (2 files):
+
 Gulp: 4.5s
+
 Grunt: 11.2s
 
 /* ===========================
