@@ -1,6 +1,6 @@
-/* ==========================================================================
+/* ===========================
    Installation and how to use
-   ========================================================================== */
+   =========================== */
 /*
  * 1. Install node.js for your OS: https://nodejs.org/en/
  * 2. Install modules: run a command in a root directory of your project "npm install"
